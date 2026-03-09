@@ -68,6 +68,9 @@ pip install streamlit scikit-learn
 ```
 
 ### Run the App
+> Note: The trained model files (`text_model.pkl` and `vectorizer.pkl`) are excluded from the repository due to size limitations.
+
+---
 
 ```bash
 git clone https://github.com/your-username/fake-news-detector.git
